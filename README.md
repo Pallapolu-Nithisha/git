@@ -36,6 +36,6 @@ _**italic and bold**_
   
   ## blocked text
   
-  a code like a block dsaDLjkskfhyejarfghdfnvg.
+  > a code like a block dsaDLjkskfhyejarfghdfnvg.
   
   sadjkahghf.
