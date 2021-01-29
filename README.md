@@ -10,3 +10,5 @@ _another bold_
 *italic format*
 
 _another italic format_
+
+_**italic and bold**_
