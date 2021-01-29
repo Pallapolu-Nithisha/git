@@ -45,4 +45,4 @@ _**italic and bold**_
 #  inserting urls
 [GOOGLE](https://www.google.com/)
 
-[GMAIL](https://wwww.gmail.com/)
+[GMAIL](https://www.gmail.com/)
