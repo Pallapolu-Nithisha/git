@@ -43,6 +43,6 @@ _**italic and bold**_
   >> adnjaehduygqeuidh
   >>> njzhbchyadg
 #  inserting urls
-[oogle](https//www.google.com/)
+[google](https//www.google.com/)
 
 [gmail](https//wwww.gmail.com/)
