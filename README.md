@@ -47,4 +47,4 @@ _**italic and bold**_
 
 [GMAIL](https://www.gmail.com/)
 
-![image of yaktocat](https://github.com/Pallapolu-Nithisha/git/pulls)
+![image of yaktocat](https://github.com/Pallapolu-Nithisha/git/blob/main/nithisha.jpg)
