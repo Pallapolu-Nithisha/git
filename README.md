@@ -34,4 +34,8 @@ _**italic and bold**_
   asjgadhasgdjhfjsdgf
   sdjghasjghagfjk
   
+  ## blocked text
+  
+  a code like a block dsaDLjkskfhyejarfghdfnvg.
+  
   sadjkahghf.
